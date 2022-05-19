@@ -1,3 +1,3 @@
 # odin-library
 
-Library web app to keep track of the books you've read and still reading. Potential features to add: filtering, sorting books, localstorage, responsive design. [Live Demo]()
+Library web app to keep track of the books you've read and still reading. Potential features to add: filtering, sorting books, localstorage, responsive design. [Live Demo](https://akhantz250.github.io/odin-library/)
